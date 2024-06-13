@@ -2,7 +2,7 @@
 This is my final FRT project
 #azure link https://gentle-forest-0ca09c510.5.azurestaticapps.net
 
-# ✨ Food Starter Blog ✨
+# ✨ Foodie Blog ✨
 This is a web based application developed for food related based website in india
 
 ### This web based food aplication has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft,Future Skills Prime, Quess, Github and EY.
