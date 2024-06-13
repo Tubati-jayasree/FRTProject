@@ -13,6 +13,7 @@ This is a web based application developed for food related based website in indi
 ## Azure technologies used for Project
 
 ▪️ Static web apps
+▪️ Virtual Network 
 
 ## Features and Functionalities 😃
 
