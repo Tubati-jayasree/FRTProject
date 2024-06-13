@@ -30,6 +30,14 @@ This is a web based application developed for food related based website in indi
 
 ![Screenshot 2024-06-13 042426](https://github.com/Tubati-jayasree/FRTProject/assets/165585656/d9e02f39-c54b-4b59-84ec-04dc53fffdf6)
 
+## About us
+
+![Screenshot 2024-06-13 043206](https://github.com/Tubati-jayasree/FRTProject/assets/165585656/c82fa25f-5153-49a1-87d2-38c1abb14337)
+
+## Contact us
+
+![Screenshot 2024-06-13 042804](https://github.com/Tubati-jayasree/FRTProject/assets/165585656/0e61a9ee-9517-41f4-9f11-ddb10a121a4c)
+
 
 
 ## About Us -
