@@ -9,7 +9,8 @@ This is a web based application developed for food related based website in indi
 
 **Project Link** - https://red-sea-01f35a910.5.azurestaticapps.net
 
-** pro
+**project demo link** - https://youtu.be/MWhQREXqX-c
+
 
 ## Azure technologies used for Project
 
