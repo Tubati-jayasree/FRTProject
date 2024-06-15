@@ -1,13 +1,13 @@
 # FRTProject
 This is my final FRT project
-#azure link https://red-sea-01f35a910.5.azurestaticapps.net
+#azure link - https://nice-desert-0cb87a610.5.azurestaticapps.net
 
 # ✨ Foodie Blog ✨
 This is a web based application developed for food related based website in india
 
 ### This web based food aplication has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft,Future Skills Prime, Quess, Github and EY.
 
-**Project Link** - https://red-sea-01f35a910.5.azurestaticapps.net
+**Project Link** - https://nice-desert-0cb87a610.5.azurestaticapps.net
 
 **project demo link** - https://youtu.be/MWhQREXqX-c
 
